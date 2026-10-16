@@ -13,5 +13,6 @@ def print_rational(x):
   >>> print_rational(rational(6/7))
   "6/7"
   """
-  print (........)
+  print(str(numerator(x))+ "/" + str(denominator(x))
+        
 
